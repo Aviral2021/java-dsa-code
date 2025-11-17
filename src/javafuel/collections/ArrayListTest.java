@@ -1,4 +1,4 @@
-package javaconcepts.collections;
+package javafuel.collections;
 import java.util.ArrayList;
 
 public class ArrayListTest {
